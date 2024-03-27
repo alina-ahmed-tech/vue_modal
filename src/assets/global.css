@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+}
+p {
+    font-style:italic;
+}
+/* because didnt put <style scoped>, these will aplly everywhere */
+/* because didnt put a specific component before the style e.g. .modal h1 vs h1 then again these will apply everywhere*/
